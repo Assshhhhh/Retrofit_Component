@@ -1,5 +1,6 @@
-package com.example.retrofit_component
+package com.example.retrofit_component.api
 
+import com.example.retrofit_component.model.QuoteList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

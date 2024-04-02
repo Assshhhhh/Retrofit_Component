@@ -1,4 +1,4 @@
-package com.example.retrofit_component
+package com.example.retrofit_component.model
 
 data class QuoteList(
     val count: Int,
